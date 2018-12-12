@@ -1,3 +1,4 @@
 x = 1
 
-x = 
+=begin "x= " from line 3 is removied ,  to correct syntax error.
+=end
